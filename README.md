@@ -29,7 +29,7 @@ We recommend to run the notebooks on Google Colab, for easier access to GPU supp
 3. **chronos_fine_tuning.ipynb**:
    Fine-tune Chronos on a financial time series dataset to evaluate if it improves the model's performance.
 
-4. **chronos_RL_trading_bot.ipynb**:
+4. **chronos_trading_bot.ipynb**:
    Apply Chronos and its enhancements from the other experiments to a simple greedy trading bot.
    The bot starts with an initial budget and performs actions (HOLD, BUY, SELL) based on the prediction of the next day's market movement.
 
